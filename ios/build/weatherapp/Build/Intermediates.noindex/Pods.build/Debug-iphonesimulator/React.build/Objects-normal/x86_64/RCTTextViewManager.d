@@ -1,0 +1,41 @@
+dependencies: \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/Libraries/Text/Text/RCTTextViewManager.m \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Target\ Support\ Files/React/React-prefix.pch \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/Libraries/Text/Text/RCTTextViewManager.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Modules/RCTAccessibilityManager.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Modules/RCTUIManagerUtils.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/node_modules/react-native/Libraries/Text/Text/RCTTextView.h

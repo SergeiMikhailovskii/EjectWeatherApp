@@ -1,0 +1,41 @@
+dependencies: \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXGoogleAuthManager.m \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXGoogleAuthManager.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/AppAuth.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDAuthState.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDAuthStateChangeDelegate.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDAuthStateErrorDelegate.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDAuthorizationFlowSession.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDAuthorizationRequest.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDExternalUserAgentRequest.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDResponseTypes.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDScopes.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDAuthorizationResponse.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDAuthorizationService.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDError.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDErrorUtilities.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDExternalUserAgent.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDExternalUserAgentSession.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDGrantTypes.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDIDToken.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDRegistrationRequest.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDRegistrationResponse.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDScopeUtilities.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDServiceConfiguration.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDServiceDiscovery.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDTokenRequest.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDTokenResponse.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDTokenUtilities.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDURLSessionProvider.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDAuthState+IOS.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDAuthorizationService+IOS.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDExternalUserAgentIOS.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/Headers/Public/AppAuth/OIDExternalUserAgentIOSCustomBrowser.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Modules/module.modulemap \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDSignInButton.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDSignIn.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDProfileData.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDGoogleUser.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDAuthentication.h \
+  /Users/siarhei.mikhaylouski/Desktop/JS/WeatherApp/ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GoogleSignIn.h
