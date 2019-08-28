@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "WeatherApp",
+    "slug": "weather-app",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "android": {
+      "package": "com.mikhailovskii.expoweatherapp",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAroXDta4quN6AynQI-z0VgDYZMZLF9T60"
+        }
+      }
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mikhailovskii.expoweatherapp"
+    },
+    "facebookScheme": "fb886698401722951",
+    "facebookAppId": "886698401722951",
+    "facebookDisplayName": "WeatherApp",
+    "description": ""
+  }
+}

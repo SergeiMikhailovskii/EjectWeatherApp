@@ -1,0 +1,3 @@
+export const SWITCH_KELVIN = 'SWITCH_KELVIN';
+
+export const SWITCH_CELSIUS = 'SWITCH_CELSIUS';
